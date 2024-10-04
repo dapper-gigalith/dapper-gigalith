@@ -1,0 +1,3 @@
+- 👋 yo, im dapper gigalith, generally i prefer to be called lith though
+- 👀 interested into getting gamedev or just programming in general
+- 🌱 rn learning nothing really. but i should learn the following: C#, JS/HTML/CSS, Lua (probably??)
